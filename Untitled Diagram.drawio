@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T13:44:09.824Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="3skFb4qgl8KhOWi0g6RF" version="16.6.1" type="github" pages="5">
+<mxfile host="app.diagrams.net" modified="2022-02-23T14:07:23.429Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="g3pX7ackMY4dpnotMTN_" version="16.6.1" type="github" pages="6">
   <diagram id="vaaXanVT9BVrQvnsYobI" name="Page-1">
     <mxGraphModel dx="2076" dy="2178" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -878,7 +878,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="S0K_-cSzfTAxOipIojNo" name="Class Diagram">
-    <mxGraphModel dx="1707" dy="1998" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1078" dy="1667" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="ekmSMiTC1KhTfpVZ-OjN-0" />
         <mxCell id="ekmSMiTC1KhTfpVZ-OjN-1" parent="ekmSMiTC1KhTfpVZ-OjN-0" />
@@ -1138,7 +1138,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="_xILxxdHAvak8eB0Y4bl" name="Log in sequence diagram">
-    <mxGraphModel dx="1463" dy="770" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1024" dy="539" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="kIWGiDxMCrvJO9BIfGDr-0" />
         <mxCell id="kIWGiDxMCrvJO9BIfGDr-1" parent="kIWGiDxMCrvJO9BIfGDr-0" />
@@ -1374,6 +1374,83 @@
             <mxPoint x="1060" y="890" as="sourcePoint" />
             <mxPoint x="120" y="890" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="vWR087xrpGfRBx-S1l-c" name="Dialog Map">
+    <mxGraphModel dx="1205" dy="634" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-0" />
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-1" parent="8WfNMQdgmidOfi3yOk-C-0" />
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-4" value="" style="html=1;verticalAlign=bottom;startArrow=circle;startFill=1;endArrow=open;startSize=6;endSize=8;rounded=0;fontSize=12;fontColor=#000000;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;jumpStyle=none;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry width="80" relative="1" as="geometry">
+            <mxPoint x="554.66" y="160" as="sourcePoint" />
+            <mxPoint x="554.66" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-6" value="Log In" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="340" y="260" width="430" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-7" value="entry / Text box to input user name, password &amp; account type;&#xa; Registration button to sign up&#xa;do / Verify valid account &#xa;exit / Display successful log in message " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-6">
+          <mxGeometry y="30" width="430" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-8" value="Create Account" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1090" y="260" width="400" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-9" value="entry / Page to enter verifiable information &#xa;do /  Store user details in database and survey results in survey database&#xa;exit / Display successful creation message" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-8">
+          <mxGeometry y="30" width="400" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-10" value="" style="endArrow=classic;html=1;rounded=0;fontSize=12;fontColor=#000000;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;jumpStyle=none;entryX=-0.001;entryY=0.353;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.353;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="8WfNMQdgmidOfi3yOk-C-7" target="8WfNMQdgmidOfi3yOk-C-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="910" y="440" as="sourcePoint" />
+            <mxPoint x="960" y="390" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-11" value="Press &quot;register&quot; button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="850" y="290" width="150" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-12" value="Forum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="800" y="510" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-13" value="entry / Display forum posts, forum search bar and navigation bar&#xa;do /  Update and show new posts created&#xa;exit / Store new posts inside posts database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-12">
+          <mxGeometry y="30" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="8WfNMQdgmidOfi3yOk-C-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="970" y="510" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="770" y="350" />
+              <mxPoint x="970" y="350" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-16" value="Log in button pressed &lt;br&gt;[if userExist == True]&amp;nbsp;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="780" y="350" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-0" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="830" y="710" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-1" value="" style="endArrow=open;html=1;rounded=0;fontSize=12;fontColor=#000000;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;jumpStyle=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.13;exitY=1.008;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="8WfNMQdgmidOfi3yOk-C-13" target="T2BG_nDe8bfwwJQRyyeA-0">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="810" y="650" as="sourcePoint" />
+            <mxPoint x="860" y="600" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-2" value="User closes website" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="780" y="660" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-3" value="About Us" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1420" y="510" width="350" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-4" value="entry / Display information about the developers and website&#xa;do /  Scroll through information&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="T2BG_nDe8bfwwJQRyyeA-3">
+          <mxGeometry y="30" width="350" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="8WfNMQdgmidOfi3yOk-C-13" target="T2BG_nDe8bfwwJQRyyeA-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-6" value="Press About Us button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1235" y="555" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
