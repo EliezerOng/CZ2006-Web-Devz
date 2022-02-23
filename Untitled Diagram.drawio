@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-02-23T14:47:53.836Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="voupsMXS7BPycnTXfX4I" version="16.6.1" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2022-02-23T14:54:28.216Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="wXe9O_BI2BzmLjOUFwvW" version="16.6.1" type="github" pages="6">
   <diagram id="vaaXanVT9BVrQvnsYobI" name="Page-1">
     <mxGraphModel dx="1463" dy="1870" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1379,7 +1379,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="vWR087xrpGfRBx-S1l-c" name="Dialog Map">
-    <mxGraphModel dx="2459" dy="399" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="4626" dy="1540" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="8WfNMQdgmidOfi3yOk-C-0" />
         <mxCell id="8WfNMQdgmidOfi3yOk-C-1" parent="8WfNMQdgmidOfi3yOk-C-0" />
@@ -1389,13 +1389,13 @@
             <mxPoint x="554.66" y="260" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="8WfNMQdgmidOfi3yOk-C-6" value="Log In" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-6" value="Log In" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="340" y="260" width="430" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8WfNMQdgmidOfi3yOk-C-7" value="entry / Text box to input user name, password &amp; account type;&#xa; Registration button to sign up&#xa;do / Verify valid account &#xa;exit / Display successful log in message " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-6">
           <mxGeometry y="30" width="430" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="8WfNMQdgmidOfi3yOk-C-8" value="Create Account" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-8" value="Create Account" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1090" y="260" width="400" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8WfNMQdgmidOfi3yOk-C-9" value="entry / Page to enter verifiable information &#xa;do /  Store user details in database and survey results in survey database&#xa;exit / Display successful creation message" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-8">
@@ -1410,7 +1410,7 @@
         <mxCell id="8WfNMQdgmidOfi3yOk-C-11" value="Press &quot;register&quot; button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="850" y="290" width="150" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="8WfNMQdgmidOfi3yOk-C-12" value="Forum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="8WfNMQdgmidOfi3yOk-C-12" value="Forum" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="800" y="510" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="8WfNMQdgmidOfi3yOk-C-13" value="entry / Display forum posts, forum search bar and navigation bar&#xa;do /  Update and show new posts created&#xa;exit / Store new posts inside posts database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-12">
@@ -1440,7 +1440,7 @@
         <mxCell id="T2BG_nDe8bfwwJQRyyeA-2" value="User closes website" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="815" y="650" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="T2BG_nDe8bfwwJQRyyeA-3" value="About Us" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="T2BG_nDe8bfwwJQRyyeA-3" value="About Us" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1300" y="405" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="T2BG_nDe8bfwwJQRyyeA-4" value="entry / Display information about the developers and website&#xa;do /  Scroll through information&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="T2BG_nDe8bfwwJQRyyeA-3">
@@ -1468,7 +1468,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="gq7gc7XCiXf6VUIH3NdG-0" value="Profile " style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="gq7gc7XCiXf6VUIH3NdG-0" value="Profile " style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="-530" y="400" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="gq7gc7XCiXf6VUIH3NdG-1" value="entry / Display current user profile &#xa;do / Make changes to user profile&#xa;exit / Save current profile to database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="gq7gc7XCiXf6VUIH3NdG-0">
@@ -1485,8 +1485,8 @@
             <mxPoint x="1054" y="860" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-0" value="Seek mental health" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="762.5" y="1370" width="425" height="120" as="geometry" />
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-0" value="Seek mental health" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="762.5" y="960" width="425" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-1" value="entry / Display featured mental health links and text box to input user location &#xa;do / Browse other mental health links&#xa; " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-0">
           <mxGeometry y="30" width="425" height="90" as="geometry" />
@@ -1501,34 +1501,47 @@
         <mxCell id="C16F77YeejKm_QZ_r4Fa-4" value="Press seek mental health button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="840" y="810" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-5" value="Display counselor Map" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="1380" y="1370" width="425" height="120" as="geometry" />
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-5" value="Display counselor Map" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1320" y="960" width="425" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-6" value="entry / Display available counselors based on user input  &#xa;do / Navigate through map&#xa; " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-5">
           <mxGeometry y="30" width="425" height="90" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-1" target="C16F77YeejKm_QZ_r4Fa-6">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="1187" y="1000" />
+            </Array>
+          </mxGeometry>
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-9" value="Create Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="1360" y="1690" width="425" height="120" as="geometry" />
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" target="C16F77YeejKm_QZ_r4Fa-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1460" y="1218" as="sourcePoint" />
+            <Array as="points">
+              <mxPoint x="1460" y="1218" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-9" value="Create Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1330" y="1220" width="425" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-10" value="entry / Display selected appointment  &#xa;do / Confirm appointment details&#xa;exit / Store appointment into appointment database&#xa; " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-9">
           <mxGeometry y="30" width="425" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-6" target="C16F77YeejKm_QZ_r4Fa-9">
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-6">
           <mxGeometry relative="1" as="geometry">
+            <mxPoint x="1620" y="1220" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="1593" y="1610" />
-              <mxPoint x="1593" y="1610" />
+              <mxPoint x="1620" y="1080" />
+              <mxPoint x="1620" y="1220" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-12" value="User inputs location&lt;br&gt;[if location == valid]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="1235" y="1400" width="110" height="30" as="geometry" />
+          <mxGeometry x="1200" y="980" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-13" value="User clicks on counselor" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="1590" y="1590" width="110" height="30" as="geometry" />
+          <mxGeometry x="1560" y="1140" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="T2BG_nDe8bfwwJQRyyeA-4">
           <mxGeometry relative="1" as="geometry">
@@ -1547,9 +1560,9 @@
           <mxGeometry x="130" y="440" width="110" height="30" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-21" value="Press Forum button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
-          <mxGeometry x="1000" y="890" width="110" height="30" as="geometry" />
+          <mxGeometry x="1000" y="810" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-23" value="Create Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-23" value="Create Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1840" y="540" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-24" value="entry / Display input box to enter post&#xa;do / Update text contents&#xa;exit / Confirm submission and update post database&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-23">
@@ -1566,7 +1579,7 @@
         <mxCell id="C16F77YeejKm_QZ_r4Fa-26" value="Press Create New Post button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1297.5" y="570" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-27" value="Edit Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-27" value="Edit Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1900" y="680" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-28" value="entry / Display post to be edited&#xa;do / Update edited text contents&#xa;exit / Confirm edits and update post database&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-27">
@@ -1587,7 +1600,7 @@
         <mxCell id="wFbkr_j3ZwcMB9aQZcJr-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.914;entryY=1.005;entryDx=0;entryDy=0;entryPerimeter=0;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0.001;exitY=0.32;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-32" target="8WfNMQdgmidOfi3yOk-C-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-31" value="Delete Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-31" value="Delete Post" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1500" y="745" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-32" value="entry / Display deletion confirmation message&#xa;do / Confirm deletion&#xa;exit / Confirm deletion and update post database&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-31">
@@ -1601,7 +1614,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="C16F77YeejKm_QZ_r4Fa-36" value="Remove as Admin" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="C16F77YeejKm_QZ_r4Fa-36" value="Remove as Admin" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="180" y="565" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="C16F77YeejKm_QZ_r4Fa-37" value="entry / Display confirmation to remove as admin &#xa;do / Confirm removal&#xa;exit / Confirm removal and update post database&#xa;" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="C16F77YeejKm_QZ_r4Fa-36">
@@ -1612,13 +1625,13 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="p18q0aI_WmCqKVH39Fsp-0" value="Create Profile" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="p18q0aI_WmCqKVH39Fsp-0" value="Create Profile" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="-530" y="130" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="p18q0aI_WmCqKVH39Fsp-1" value="entry / Display settings for user profile&#xa;do / Enter profile information&#xa;exit / Save current profile to database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="p18q0aI_WmCqKVH39Fsp-0">
           <mxGeometry y="30" width="350" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-2" value="Edit Profile" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-2" value="Edit Profile" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="-1090" y="400" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wFbkr_j3ZwcMB9aQZcJr-3" value="entry / Display settings for user profile&#xa;do / Edit profile information&#xa;exit / Save current profile to database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="wFbkr_j3ZwcMB9aQZcJr-2">
@@ -1667,10 +1680,11 @@
         <mxCell id="wFbkr_j3ZwcMB9aQZcJr-14" value="Press Done button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="1255" y="790" width="110" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-28">
+        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0;exitY=0.25;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-28">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="1150" y="620" as="targetPoint" />
             <Array as="points">
+              <mxPoint x="1900" y="730" />
               <mxPoint x="1150" y="730" />
             </Array>
           </mxGeometry>
@@ -1716,7 +1730,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-31" value="View Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-31" value="View Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="-820" y="625" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wFbkr_j3ZwcMB9aQZcJr-32" value="entry / Display current user appointments " style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="wFbkr_j3ZwcMB9aQZcJr-31">
@@ -1731,7 +1745,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-34" value="Cancel Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#FFFFFF;fontColor=#000000;fillColor=#FFFFFF;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+        <mxCell id="wFbkr_j3ZwcMB9aQZcJr-34" value="Cancel Appointment" style="swimlane;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;rounded=1;fontSize=14;fontStyle=0;strokeWidth=2;resizeParent=0;resizeLast=1;shadow=0;dashed=0;align=center;labelBackgroundColor=#CCE5FF;fontColor=default;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
           <mxGeometry x="-380" y="625" width="350" height="120" as="geometry" />
         </mxCell>
         <mxCell id="wFbkr_j3ZwcMB9aQZcJr-35" value="entry / Display current appointment for cancellation&#xa;do / Confirm deletion of appointment&#xa;exit / Remove appointment from appointment database" style="align=left;strokeColor=none;fillColor=none;spacingLeft=4;fontSize=12;verticalAlign=top;resizable=0;rotatable=0;part=1;labelBackgroundColor=#FFFFFF;fontColor=#000000;" vertex="1" parent="wFbkr_j3ZwcMB9aQZcJr-34">
@@ -1752,6 +1766,27 @@
               <mxPoint x="-358" y="520" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-0" value="Press View Appointment button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="-760" y="535" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-1" value="Press Back button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="-570" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-2" value="Press Cancel Appointment button&lt;br&gt;[if validAppointment == True]" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="-440" y="550" width="170" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-3" value="Press Back button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="-250" y="550" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-5" value="User press cancel button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1407.5" y="1140" width="110" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=12;fontColor=#000000;endArrow=open;endFill=0;sourcePerimeterSpacing=50;targetPerimeterSpacing=3;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="8WfNMQdgmidOfi3yOk-C-1" source="C16F77YeejKm_QZ_r4Fa-6" target="C16F77YeejKm_QZ_r4Fa-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="NMQzZvCm5JSYvXnwf4OG-7" value="User press cancel button" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFFFF;fontSize=12;fontColor=#000000;" vertex="1" parent="8WfNMQdgmidOfi3yOk-C-1">
+          <mxGeometry x="1200" y="1020" width="110" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
