@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-03-31T05:09:12.290Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="uAgPrAO_f22FVA358KQU" version="17.2.6" type="github" pages="10">
+<mxfile host="app.diagrams.net" modified="2022-03-31T05:10:06.133Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.84 Safari/537.36" etag="8Pv6t1AoKN_0R3Csri0t" version="17.2.6" type="github" pages="10">
   <diagram id="vaaXanVT9BVrQvnsYobI" name="Page-1">
     <mxGraphModel dx="1666" dy="1826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -1850,7 +1850,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="FjefMeZO_ah2IKb-APlX" name="AboutUs SD">
-    <mxGraphModel dx="1666" dy="726" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1851" dy="807" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2254,7 +2254,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="F32-1N-Vr7NpINJq2YxJ" name="Check Appointment SD">
-    <mxGraphModel dx="2221" dy="968" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="724" dy="316" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2322,9 +2322,6 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Zj5TXihuZgjiVsY2Hih4-3" value="User clicks on profile page" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" parent="1" vertex="1">
-          <mxGeometry x="160" y="290" width="180" height="20" as="geometry" />
-        </mxCell>
         <mxCell id="Zj5TXihuZgjiVsY2Hih4-9" value="displayAppointment()" style="html=1;verticalAlign=bottom;endArrow=block;rounded=0;fontSize=14;strokeWidth=1;" parent="1" source="QEeArEcXvBqM3i31-cG2-4" edge="1">
           <mxGeometry x="-0.0409" width="80" relative="1" as="geometry">
             <mxPoint x="910" y="600" as="sourcePoint" />
@@ -2352,6 +2349,9 @@
         </mxCell>
         <mxCell id="1FWKDiWoT0iX6TmeaqeS-2" value="RetrieveAppointment()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
           <mxGeometry x="1080" y="440" width="160" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="tbnbG7LKa2bqmqmgzfUl-1" value="DisplayNavigationBar()" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="171" y="290" width="160" height="20" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
